@@ -1,11 +1,11 @@
 # proj-azurechallengeKM
 
-Meu primeiro Projeto criado através do Challenge do Azure Frontier Gilrs
+Meu primeiro Projeto criado através do Challenge do Azure Frontier Girls, programa desenvolvido pela Microsoft juntamente com a Womakers Code.
 
 DESCRIÇÃO
 Este projeto apresenta um chatbot fictício criado com Azure OpenAI GPT 4.1, configurado no Playground para atender varejistas com problemas de acesso ao site do Clube de Vantagens. O fluxo foi testado e aprovado, garantindo respostas simples, objetivas e direcionadas.
 Esse chat é baseado em programas de incentivo existentes, visto que alguns nao atuam com a IA no suporte de atendimento.
-Existe uma regra para usuarios da plataforma do clube de ventagens que: Quem não acessa a mais de 3 meses, terá o cadastrado inativado até que seja feito o contato para realização de ativação.
+OBS: Existe uma regra para usuarios da plataforma do clube de vantagens que: Quem não acessa a mais de 3 meses, terá o cadastrado inativado até que seja feito o contato para realização de ativação.
 
 OBJETIVO DO AGENTE: direcionar aos usuarios aos canais de comunicação adequados, para que seja dado a tratativa de acordo com os problemas de acesso mais comuns
 
